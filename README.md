@@ -33,7 +33,7 @@ Opens the Python file where the Wi-Fi meter code will be saved.
 nano ~/wifi_meter.py
 ```
 
-Paste the **entire code** from [`[wifi_meter.py](https://github.com/TA2IWO/Wireless_USB/blob/main/Wi-Fi_meter.py)`](./wifi_meter.py) into the editor, then save with **Ctrl+O → Enter → Ctrl+X**.
+Paste the **entire code** from [`wifi_meter.py`](./wifi_meter.py) into the editor, then save with **Ctrl+O → Enter → Ctrl+X**.
 
 Runs the code to verify that the Wi-Fi signal strength is correctly displayed on the 8 LEDs.
 
