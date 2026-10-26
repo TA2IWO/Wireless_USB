@@ -1,3 +1,9 @@
+### 📋 Prerequisites
+
+1. Install **Raspberry Pi OS Lite**, compatible with the Raspberry Pi Zero 2 W (or your own Raspberry model) , on a microSD card using [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
+2. Download and install [PuTTY](https://www.putty.org/) on your computer to establish an SSH connection.
+3. Once connected to your Raspberry Pi via SSH, follow the installation steps below to complete the setup.
+
 # 🔌 Wireless USB Bridge
 
 **Raspberry Pi Zero 2 W · Raspberry Pi OS Lite · VirtualHere**
